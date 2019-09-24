@@ -1,4 +1,4 @@
-require_relative "./vehicle.rb"
+require_relative "./lib/vehicle.rb"
 ##doing so to allow Car Class to access Vehicle Clas
 
 class Car < Vehicle
